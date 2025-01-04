@@ -1,5 +1,6 @@
 # Scalable Real-Time Chat Application
-![image](https://github.com/user-attachments/assets/6540dc0b-fc1c-4efc-9e1b-02b545c3a297)
+![image](https://github.com/user-attachments/assets/fce61614-b1db-4a01-81c7-95983c78b100)
+
 
 
 This project is a backend implementation of a real-time chat application, similar to WhatsApp, built with Node.js, Express.js, WebSockets, Redis, Kafka, and MongoDB. It focuses on providing a scalable and robust backend for one-on-one messaging.
